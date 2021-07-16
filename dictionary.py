@@ -1,4 +1,4 @@
-dict = {'?unnko' : 'unnko.mp3',
-        '?unko' : 'unnko.mp3',
+dict = {'?unnko' : 'yaju.mp3',
+        '?unko' : 'yaju.mp3',
 
  }

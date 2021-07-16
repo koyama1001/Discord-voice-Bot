@@ -5,7 +5,7 @@ import dictionary
 import discord
 from asyncio import sleep
 
-TOKEN = 'NzM1MTk1MjE4OTM2MzMyMzIw.Xxct5w.MSOBJi1POO_XtGOMcUhOQKtI68w'
+TOKEN = ''
 
 class MyClient(discord.Client):
 
